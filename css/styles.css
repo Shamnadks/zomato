@@ -312,7 +312,7 @@ h6{
 .i{
     height:400px;
     position: relative;
-    left:260px;
+    left:150px;
     top:50px;
 }
 .h21
@@ -341,21 +341,21 @@ h6{
     font-size: 20px;
     position: relative;
     bottom:210px;
-    left:350px;
+    left:190px;
 }
 .abcd{
     
     font-size: 20px;
     position: relative;
     bottom:210px;
-    left:360px;
+    left:200px;
 }
 .search1{
     
     height: 40px;
     width: 220px;
     position: relative;
-    left:190px;
+    left:40px;
     bottom:160px;
     border-radius: 0.8rem;
 }
@@ -364,7 +364,7 @@ h6{
     
         position: relative;
     bottom:160px;
-    left:210px;
+    left:70px;
         background: #d9344a;
         background-image: -webkit-linear-gradient(top, #d9344a, #b82b5e);
         background-image: -moz-linear-gradient(top, #d9344a, #b82b5e);
