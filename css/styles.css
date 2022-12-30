@@ -302,6 +302,7 @@ h6{
 
 }
 .mail{
+     border-top:1px;
     position:relative;
     margin:0px;
     height:600px;
